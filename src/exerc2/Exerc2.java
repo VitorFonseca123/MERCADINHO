@@ -9,7 +9,7 @@ package exerc2;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Aluno
+ * @author Vitor
  */
 public class Exerc2 {
     
